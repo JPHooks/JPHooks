@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @JPHooks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JPHooks/JPHooks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @jphooks (Joshua Hooks)
+- 👀 I’m interested in sharing code I've written to help other IT professionals
+- 🌱 I’m currently studying for M365 Certifications
+- 💞️ I love working with computers and technology and am very passionate about what I do on a day to day basis
+- 📫 Feel free to send me an email anytime
